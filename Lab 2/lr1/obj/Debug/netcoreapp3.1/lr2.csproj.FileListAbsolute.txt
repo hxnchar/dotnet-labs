@@ -1,0 +1,14 @@
+D:\Edu\dotnet\2\lr2\lr1\bin\Debug\netcoreapp3.1\lr2.exe
+D:\Edu\dotnet\2\lr2\lr1\bin\Debug\netcoreapp3.1\lr2.deps.json
+D:\Edu\dotnet\2\lr2\lr1\bin\Debug\netcoreapp3.1\lr2.runtimeconfig.json
+D:\Edu\dotnet\2\lr2\lr1\bin\Debug\netcoreapp3.1\lr2.runtimeconfig.dev.json
+D:\Edu\dotnet\2\lr2\lr1\bin\Debug\netcoreapp3.1\lr2.dll
+D:\Edu\dotnet\2\lr2\lr1\bin\Debug\netcoreapp3.1\lr2.pdb
+D:\Edu\dotnet\2\lr2\lr1\obj\Debug\netcoreapp3.1\lr2.csproj.AssemblyReference.cache
+D:\Edu\dotnet\2\lr2\lr1\obj\Debug\netcoreapp3.1\lr2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\dotnet\2\lr2\lr1\obj\Debug\netcoreapp3.1\lr2.AssemblyInfoInputs.cache
+D:\Edu\dotnet\2\lr2\lr1\obj\Debug\netcoreapp3.1\lr2.AssemblyInfo.cs
+D:\Edu\dotnet\2\lr2\lr1\obj\Debug\netcoreapp3.1\lr2.csproj.CoreCompileInputs.cache
+D:\Edu\dotnet\2\lr2\lr1\obj\Debug\netcoreapp3.1\lr2.dll
+D:\Edu\dotnet\2\lr2\lr1\obj\Debug\netcoreapp3.1\lr2.pdb
+D:\Edu\dotnet\2\lr2\lr1\obj\Debug\netcoreapp3.1\lr2.genruntimeconfig.cache

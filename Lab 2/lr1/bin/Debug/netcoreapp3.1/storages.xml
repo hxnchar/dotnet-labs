@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<storages>
+  <storage name="Simple Storage Kyiv">
+    <location>Kyiv</location>
+    <products>
+      <product name="Kanefron">
+        <price>139.2</price>
+        <count>15</count>
+        <dates>
+          <date>01.01.2020</date>
+          <date>15.01.2020</date>
+        </dates>
+        <manufactures>
+          <manufacturer name="Bionorica">
+            <address>Bionorica st. 15</address>
+            <products>
+              <product name="Kanefron">
+                <price>139.2</price>
+                <count>15</count>
+                <dates>
+                  <price>01.01.2020</price>
+                  <price>15.01.2020</price>
+                </dates>
+              </product>
+            </products>
+          </manufacturer>
+          <manufacturer name="IPSEN">
+            <address>IPSEN ave 3</address>
+            <products>
+              <product name="Tinzilgon">
+                <price>349.75</price>
+                <count>8</count>
+                <dates>
+                  <price>01.01.2020</price>
+                  <price>20.02.2021</price>
+                </dates>
+              </product>
+              <product name="Tinzilgon">
+                <price>349.75</price>
+                <count>8</count>
+                <dates>
+                  <price>01.01.2020</price>
+                  <price>20.02.2021</price>
+                </dates>
+              </product>
+              <product name="Tinzilgon">
+                <price>349.75</price>
+                <count>8</count>
+                <dates>
+                  <price>01.01.2020</price>
+                  <price>20.02.2021</price>
+                </dates>
+              </product>
+            </products>
+          </manufacturer>
+        </manufactures>
+      </product>
+      <product name="Tinzilgon">
+        <price>349.75</price>
+        <count>8</count>
+        <dates>
+          <date>01.01.2020</date>
+          <date>20.02.2021</date>
+        </dates>
+        <manufactures>
+          <manufacturer name="STADA">
+            <address>STADA st. 24</address>
+            <products />
+          </manufacturer>
+          <manufacturer name="IPSEN">
+            <address>IPSEN ave 3</address>
+            <products>
+              <product name="Tinzilgon">
+                <price>349.75</price>
+                <count>8</count>
+                <dates>
+                  <price>01.01.2020</price>
+                  <price>20.02.2021</price>
+                </dates>
+              </product>
+              <product name="Tinzilgon">
+                <price>349.75</price>
+                <count>8</count>
+                <dates>
+                  <price>01.01.2020</price>
+                  <price>20.02.2021</price>
+                </dates>
+              </product>
+              <product name="Tinzilgon">
+                <price>349.75</price>
+                <count>8</count>
+                <dates>
+                  <price>01.01.2020</price>
+                  <price>20.02.2021</price>
+                </dates>
+              </product>
+            </products>
+          </manufacturer>
+        </manufactures>
+      </product>
+    </products>
+  </storage>
+  <storage name="Good Storage">
+    <location>Dnipro</location>
+    <products>
+      <product name="Kanefron">
+        <price>139.2</price>
+        <count>15</count>
+        <dates>
+          <date>01.01.2020</date>
+          <date>15.01.2020</date>
+        </dates>
+        <manufactures>
+          <manufacturer name="Bionorica">
+            <address>Bionorica st. 15</address>
+            <products>
+              <product name="Kanefron">
+                <price>139.2</price>
+                <count>15</count>
+                <dates>
+                  <price>01.01.2020</price>
+                  <price>15.01.2020</price>
+                </dates>
+              </product>
+            </products>
+          </manufacturer>
+          <manufacturer name="IPSEN">
+            <address>IPSEN ave 3</address>
+            <products>
+              <product name="Tinzilgon">
+                <price>349.75</price>
+                <count>8</count>
+                <dates>
+                  <price>01.01.2020</price>
+                  <price>20.02.2021</price>
+                </dates>
+              </product>
+              <product name="Tinzilgon">
+                <price>349.75</price>
+                <count>8</count>
+                <dates>
+                  <price>01.01.2020</price>
+                  <price>20.02.2021</price>
+                </dates>
+              </product>
+              <product name="Tinzilgon">
+                <price>349.75</price>
+                <count>8</count>
+                <dates>
+                  <price>01.01.2020</price>
+                  <price>20.02.2021</price>
+                </dates>
+              </product>
+            </products>
+          </manufacturer>
+          <manufacturer name="Sanofi">
+            <address>Sanofi st. 13</address>
+            <products>
+              <product name="Amari">
+                <price>90.3</price>
+                <count>54</count>
+                <dates>
+                  <price>20.01.2020</price>
+                </dates>
+              </product>
+              <product name="Amari">
+                <price>90.3</price>
+                <count>54</count>
+                <dates>
+                  <price>20.01.2020</price>
+                </dates>
+              </product>
+              <product name="Amari">
+                <price>90.3</price>
+                <count>54</count>
+                <dates>
+                  <price>20.01.2020</price>
+                </dates>
+              </product>
+            </products>
+          </manufacturer>
+          <manufacturer name="STADA">
+            <address>STADA st. 24</address>
+            <products />
+          </manufacturer>
+        </manufactures>
+      </product>
+      <product name="Amari">
+        <price>90.3</price>
+        <count>54</count>
+        <dates>
+          <date>20.01.2020</date>
+        </dates>
+        <manufactures>
+          <manufacturer name="IPSEN">
+            <address>IPSEN ave 3</address>
+            <products>
+              <product name="Tinzilgon">
+                <price>349.75</price>
+                <count>8</count>
+                <dates>
+                  <price>01.01.2020</price>
+                  <price>20.02.2021</price>
+                </dates>
+              </product>
+              <product name="Tinzilgon">
+                <price>349.75</price>
+                <count>8</count>
+                <dates>
+                  <price>01.01.2020</price>
+                  <price>20.02.2021</price>
+                </dates>
+              </product>
+              <product name="Tinzilgon">
+                <price>349.75</price>
+                <count>8</count>
+                <dates>
+                  <price>01.01.2020</price>
+                  <price>20.02.2021</price>
+                </dates>
+              </product>
+            </products>
+          </manufacturer>
+        </manufactures>
+      </product>
+    </products>
+  </storage>
+  <storage name="Perfect Storage">
+    <location>Kharkiv</location>
+    <products>
+      <product name="Kanefron">
+        <price>139.2</price>
+        <count>15</count>
+        <dates>
+          <date>01.01.2020</date>
+          <date>15.01.2020</date>
+        </dates>
+        <manufactures>
+          <manufacturer name="STADA">
+            <address>STADA st. 24</address>
+            <products />
+          </manufacturer>
+        </manufactures>
+      </product>
+      <product name="Tinzilgon">
+        <price>349.75</price>
+        <count>8</count>
+        <dates>
+          <date>01.01.2020</date>
+          <date>20.02.2021</date>
+        </dates>
+        <manufactures>
+          <manufacturer name="Bionorica">
+            <address>Bionorica st. 15</address>
+            <products>
+              <product name="Kanefron">
+                <price>139.2</price>
+                <count>15</count>
+                <dates>
+                  <price>01.01.2020</price>
+                  <price>15.01.2020</price>
+                </dates>
+              </product>
+            </products>
+          </manufacturer>
+          <manufacturer name="IPSEN">
+            <address>IPSEN ave 3</address>
+            <products>
+              <product name="Tinzilgon">
+                <price>349.75</price>
+                <count>8</count>
+                <dates>
+                  <price>01.01.2020</price>
+                  <price>20.02.2021</price>
+                </dates>
+              </product>
+              <product name="Tinzilgon">
+                <price>349.75</price>
+                <count>8</count>
+                <dates>
+                  <price>01.01.2020</price>
+                  <price>20.02.2021</price>
+                </dates>
+              </product>
+              <product name="Tinzilgon">
+                <price>349.75</price>
+                <count>8</count>
+                <dates>
+                  <price>01.01.2020</price>
+                  <price>20.02.2021</price>
+                </dates>
+              </product>
+            </products>
+          </manufacturer>
+        </manufactures>
+      </product>
+      <product name="Amari">
+        <price>90.3</price>
+        <count>54</count>
+        <dates>
+          <date>20.01.2020</date>
+        </dates>
+        <manufactures>
+          <manufacturer name="Sanofi">
+            <address>Sanofi st. 13</address>
+            <products>
+              <product name="Amari">
+                <price>90.3</price>
+                <count>54</count>
+                <dates>
+                  <price>20.01.2020</price>
+                </dates>
+              </product>
+              <product name="Amari">
+                <price>90.3</price>
+                <count>54</count>
+                <dates>
+                  <price>20.01.2020</price>
+                </dates>
+              </product>
+              <product name="Amari">
+                <price>90.3</price>
+                <count>54</count>
+                <dates>
+                  <price>20.01.2020</price>
+                </dates>
+              </product>
+            </products>
+          </manufacturer>
+        </manufactures>
+      </product>
+    </products>
+  </storage>
+</storages>
