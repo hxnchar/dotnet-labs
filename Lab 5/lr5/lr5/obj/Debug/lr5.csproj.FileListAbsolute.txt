@@ -1,0 +1,8 @@
+D:\Edu\dotnet\5\lr5\lr5\bin\Debug\lr5.exe.config
+D:\Edu\dotnet\5\lr5\lr5\bin\Debug\lr5.exe
+D:\Edu\dotnet\5\lr5\lr5\bin\Debug\lr5.pdb
+D:\Edu\dotnet\5\lr5\lr5\obj\Debug\lr5.csproj.AssemblyReference.cache
+D:\Edu\dotnet\5\lr5\lr5\obj\Debug\lr5.csproj.SuggestedBindingRedirects.cache
+D:\Edu\dotnet\5\lr5\lr5\obj\Debug\lr5.csproj.CoreCompileInputs.cache
+D:\Edu\dotnet\5\lr5\lr5\obj\Debug\lr5.exe
+D:\Edu\dotnet\5\lr5\lr5\obj\Debug\lr5.pdb
