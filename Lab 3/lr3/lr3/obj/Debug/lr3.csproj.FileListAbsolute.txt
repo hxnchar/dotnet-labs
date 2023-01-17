@@ -1,0 +1,8 @@
+D:\Edu\dotnet\3\lr3\lr3\bin\Debug\lr3.exe.config
+D:\Edu\dotnet\3\lr3\lr3\bin\Debug\lr3.exe
+D:\Edu\dotnet\3\lr3\lr3\bin\Debug\lr3.pdb
+D:\Edu\dotnet\3\lr3\lr3\obj\Debug\lr3.csproj.AssemblyReference.cache
+D:\Edu\dotnet\3\lr3\lr3\obj\Debug\lr3.csproj.SuggestedBindingRedirects.cache
+D:\Edu\dotnet\3\lr3\lr3\obj\Debug\lr3.csproj.CoreCompileInputs.cache
+D:\Edu\dotnet\3\lr3\lr3\obj\Debug\lr3.exe
+D:\Edu\dotnet\3\lr3\lr3\obj\Debug\lr3.pdb
